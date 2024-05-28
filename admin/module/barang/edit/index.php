@@ -64,7 +64,9 @@
 							<option value="<?php echo $hasil['satuan_barang'];?>"><?php echo $hasil['satuan_barang'];?>
 							</option>
 							<option value="#">Pilih Satuan</option>
-							<option value="PCS">PCS</option>
+                                            <option value="PCS">PCS</option>
+                                            <option value="ML">ML</option>
+                                            <option value="KG">KG</option>
 						</select>
 					</td>
 				</tr>
